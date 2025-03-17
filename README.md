@@ -40,3 +40,6 @@ Este archivo gestiona toda la interactividad:
 ### 🤝 Conclusión
 
 💡 ¡Espero que este proyecto te ayude en tus sorteos! Si te gustó, no olvides darle una ⭐ en GitHub.
+
+### Contribuciones
+Si deseas contribuir, por favor abre un issue o envía un pull request.
